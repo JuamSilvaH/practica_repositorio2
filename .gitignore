@@ -1,0 +1,4 @@
+*.log
+[Dd]ebug/
+/estilos.css
+/empresa.html
